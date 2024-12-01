@@ -1,0 +1,24 @@
+Query: nausea and dizziness
+"The medication caused a headache and nausea, but no dizziness was reported.", 0.23
+"The patient reported nausea and dizziness caused by the medication.", 0.23
+"Headache and dizziness are common effects of this medication.", 0.15
+"After the medication, headache and nausea were reported by the patient.", 0.14
+
+Query: effects
+"Headache and dizziness are common effects of this medication.", 0.22
+
+Query: nausea was reported
+"The medication caused a headache and nausea, but no dizziness was reported.", 0.29
+"The patient reported nausea and dizziness caused by the medication.", 0.16
+"After the medication, headache and nausea were reported by the patient.", 0.15
+
+Query: dizziness
+"The medication caused a headache and nausea, but no dizziness was reported.", 0.14
+"Headache and dizziness are common effects of this medication.", 0.14
+"The patient reported nausea and dizziness caused by the medication.", 0.14
+
+Query: the medication
+"The patient reported nausea and dizziness caused by the medication.", 0.28
+"After the medication, headache and nausea were reported by the patient.", 0.27
+"The medication caused a headache and nausea, but no dizziness was reported.", 0.18
+"Headache and dizziness are common effects of this medication.", 0.08
